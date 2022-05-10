@@ -14,8 +14,8 @@ In our last semester in college we made a web app for our recipes that caters to
 "react-router-dom": "^6.2.2",     npm install --save react-router-dom
 
 # Team
- [Linkedin: ](https://www.linkedin.com/in/raemondcarta/)Raemond Carta 
- [Github: ](https://github.com/JVKod/) Justin Kodouangchan
- [Fanshawe Email: ](w_laing@fanshaweonline.ca)  Willow Laing
-  [Fanshawe Email: ](c_martin123019@fanshaweonline.ca) Christopher Martin
+ [Linkedin: ](https://www.linkedin.com/in/raemondcarta/)Raemond Carta <br />
+ [Github: ](https://github.com/JVKod/) Justin Kodouangchan<br />
+ [Fanshawe Email: ](w_laing@fanshaweonline.ca)  Willow Laing<br />
+  [Fanshawe Email: ](c_martin123019@fanshaweonline.ca) Christopher Martin<br />
 
