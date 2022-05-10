@@ -17,5 +17,5 @@ In our last semester in college we made a web app for our recipes that caters to
  [Linkedin: ](https://www.linkedin.com/in/raemondcarta/)Raemond Carta <br />
  [Github: ](https://github.com/JVKod/) Justin Kodouangchan<br />
  Fanshawe Email: w_laing@fanshaweonline.ca,   Willow Laing<br />
- Fanshawe Email:c_martin123019@fanshaweonline.ca, Christopher Martin<br />
+ Fanshawe Email: c_martin123019@fanshaweonline.ca, Christopher Martin<br />
 
